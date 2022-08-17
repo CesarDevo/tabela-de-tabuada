@@ -1,5 +1,5 @@
-
-function alerte(){ var x = prompt("Entre com um número maior e menor que 11");
+function alerte() { 
+    var x = prompt("Entre com um número maior e menor que 11");
 try {
 if (x <= 0) {
     throw("er1");
